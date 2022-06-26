@@ -1,5 +1,9 @@
 # Tutorial Git & GitHub
 
+## Intro
+
+**Git** est un logiciel de gestion de version permettant de stocker une collection de fichiers en gardant en mémoire la chronologie ainsi que la nature des changements effectués dessus.
+
 ## Commandes Git
 
 _clone_ -> permet de cloner un dépôt hébergé ailleurs (e.g. Github) dans un répertoire sur sa machine locale.
