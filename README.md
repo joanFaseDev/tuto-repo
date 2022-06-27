@@ -35,6 +35,14 @@ _ls_ (**list directory contents**) -> affiche le contenu du répertoire.
 
 _ls -la_ (**list all**) -> affiche tous le contenu du répertoire même les fichiers cachés.
 
+## Branches
+
+Le modèle de gestion de branches est extrèmement pratique puisqu'il permet de créer une branche annexe et travailler en vase clos sur une partie d'un dépôt sans impacter la branche principale.
+
+_git branch_ -> permet de lister, créer ou effacer des branches.
+_git checkout *name-branch*_ -> bascule sur une autre branche.
+_git checkout -b *name-new-branch*_ -> crée une nouvelle branche.
+
 ## Ressources externes
 
 https://explainshell.com/explain?cmd=cd
