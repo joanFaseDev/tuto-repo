@@ -42,6 +42,7 @@ Le modèle de gestion de branches est extrèmement pratique puisqu'il permet de 
 _git branch_ -> permet de lister, créer ou effacer des branches.
 _git checkout *name-branch*_ -> bascule sur une autre branche.
 _git checkout -b *name-new-branch*_ -> crée une nouvelle branche.
+_git diff *name-branch*_ -> affiche les différences entre les différentes branches du dépôt.
 
 ## Ressources externes
 
